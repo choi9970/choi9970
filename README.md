@@ -33,7 +33,7 @@ Java · Spring Boot · React 기반 풀스택 개발
 
 ### 🤖 [LearnIT Chat Agent](https://github.com/choi9970/learnit-chat-agent)
 - **Stack**: FastAPI + Docker  
-- **Status**: ![In Progress](https://img.shields.io/badge/status-In%20Progress-blue)  
+- **Status**: ![Completed](https://img.shields.io/badge/status-Completed-success)  
 - **Deploy**: ![Planned](https://img.shields.io/badge/deploy-Planned-lightgrey)  
 - **Description**: AI 챗봇 서버, 세션 기반 대화 유지, OpenAI API 연동  
 - **Role**: FastAPI 서버 구현, 세션 관리, Docker 컨테이너화  
