@@ -1,4 +1,4 @@
-# 최정문 | Full-Stack Developer 👋
+# Full-Stack Developer 👋
 
 Java · Spring Boot · React 기반 풀스택 개발  
 안정적 서비스 운영과 유지보수성을 고려한 개발과 배포 자동화 지향
